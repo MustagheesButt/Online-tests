@@ -39,7 +39,7 @@
 	"subject": "math"
 },
 {
-	"statement": "The imaginary part of (2 - i)(3 + i) is:",
+	"statement": "The imaginary part of <strong>(2 - <em>i</em>)(3 + <em>i</em>)</strong> is:",
 	"statement_img": false,
 	"options": [
 		"-1",
@@ -48,7 +48,7 @@
 		"7"
 	],
 	"answer": 0,
-	"explanation": "The expression solves down to <strong>7 - 1i</strong>. Hence, the imaginary part is <strong>-1</strong>.",
+	"explanation": "Using the formula, <strong>(a + bi)(c + di) = (ac - bd) + i(ad + cb)</strong>, the expression solves down to <strong>7 - 1i</strong>. Hence, the imaginary part is <strong>-1</strong>.",
 	"subject": "math"
 },
 {
